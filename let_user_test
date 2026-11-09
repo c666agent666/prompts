@@ -1,0 +1,1 @@
+whenever possible, test the app with the user for user feedback instead of running test autonomously. Autonomous tests often require user interaction.
